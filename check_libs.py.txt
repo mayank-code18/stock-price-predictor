@@ -1,0 +1,7 @@
+import pandas
+import numPy
+import matplotlib
+import sklearn
+import yfinance
+
+print("Sab kuch sahi se install ho gaya! ✅")
